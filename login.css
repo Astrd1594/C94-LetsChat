@@ -1,0 +1,29 @@
+.modal-content{
+    color: rgb(39, 39, 39);
+}
+input{
+    color: hotpink;
+}
+#defaultPfpLogin{
+    width: 35px;
+}
+#loginButton{
+    padding-top: 2px;
+    height: 25px;
+    width: 34.5%;
+}
+.btn-success{
+    border-radius: 0px;
+}
+.displayExistingRooms{
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: darkblue;
+    background-color: rgb(110, 110, 180);
+}
+#logoLogin{
+    width: 50px;
+}
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+}
